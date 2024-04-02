@@ -1,3 +1,4 @@
+<h2>Introduction</h2>
 WeatherNow is a simple and intuitive weather website that provides real-time weather information for cities around the world. <b>Powered by Rapid API<\b> WeatherNow offers current weather conditions, including temperature, humidity, wind speed, and much more. Users can search for a specific city or allow the website to detect their location automatically. The responsive design ensures a seamless experience across devices. WeatherNow is built using HTML, CSS, and JavaScript, making it easy to customize and deploy. Start checking the weather in your area with WeatherNow!
 
 <h2>Features</h2>
