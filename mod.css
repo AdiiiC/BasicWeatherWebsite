@@ -1,0 +1,122 @@
+.custom-navbar{
+    background-color: #F29D11 !important;
+}
+.navbar-brand {
+    font-weight: 700;
+    font-size: 27px;
+}
+
+.btn-outline-success {
+    background-color: aliceblue;
+}
+
+.flex{
+    display: flex;
+    margin-top: 15px;
+}
+
+body{
+    background-image: url(lmao.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.display-6{
+    font-weight: 600;
+}
+
+.whit {
+    text-decoration-color: white;
+}
+
+.card{
+    height: 250px;
+    background-color: transparent;
+}
+
+.glassy {
+    background: rgba( 255, 255, 255, 0 );
+    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+    backdrop-filter: blur( 14.5px );
+    -webkit-backdrop-filter: blur( 14.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.glassy th,
+.glassy td {
+    background-color: transparent; 
+    color: black; 
+    padding: 8px; 
+    border:none;
+}
+
+.radius-10{
+    border-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+
+.text-white {
+    color : white !important;
+}
+
+@media (max-width: 767px) {
+    .container {
+      width: 100%;
+      padding: 0;
+    }
+  
+    .flex {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .card {
+      width: 100%;
+    }
+  
+    .table {
+      width: 100%;
+      border: 0;
+    }
+  
+    .table thead th {
+      border: 0;
+      border-bottom: 1px solid #dee2e6;
+    }
+  
+    .table tbody td {
+      border-top: 1px solid #dee2e6;
+    }
+  }
+
+.mycont{
+    justify-content: space-evenly;  
+}
+
+.wdis {
+    height:22rem;
+    width:24rem;
+    border-radius: 10px;
+}
+
+.head {
+    height:60px;
+    font-size: 20px;
+    font-weight : 600;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#locateme {
+    margin-left: 10px;
+    height: 40px;
+    width: 40px;
+    border-radius: 10px;
+    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+}
